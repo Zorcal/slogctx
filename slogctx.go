@@ -1,3 +1,5 @@
+// Package slogctx provides a slog.Handler that adds attributes to each log record
+// based on the log context.
 package slogctx
 
 import (
